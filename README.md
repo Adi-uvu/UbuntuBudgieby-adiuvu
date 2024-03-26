@@ -1,4 +1,4 @@
-# UbuntuBudgieby-adiuvu
+# UbuntuBudgieby-adiuvu-beta
 ![Zrzut ekranu 2024-03-26 151317](https://github.com/Adi-uvu/UbuntuBudgieby-adiuvu/assets/102376281/a9464135-46a3-46e8-b309-ba829765e2fb)
 ![Zrzut ekranu 2024-03-26 151345](https://github.com/Adi-uvu/UbuntuBudgieby-adiuvu/assets/102376281/e34b6518-3e76-4d41-944d-48356cffe64f)
 
